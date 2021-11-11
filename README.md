@@ -1,10 +1,10 @@
-![Logo](admin/vis-google-fonts.png)
-# ioBroker.vis-google-fonts
+![Logo](admin/vis-powertrust-fonts.png)
+# ioBroker.vis-powertrust-fonts
 
-![Number of Installations](http://iobroker.live/badges/vis-google-fonts-installed.svg) ![Number of Installations](http://iobroker.live/badges/vis-google-fonts-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.vis-google-fonts.svg)](https://www.npmjs.com/package/iobroker.vis-google-fonts)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.vis-google-fonts.svg)](https://www.npmjs.com/package/iobroker.vis-google-fonts)
+![Number of Installations](http://iobroker.live/badges/vis-powertrust-fonts-installed.svg) ![Number of Installations](http://iobroker.live/badges/vis-powertrust-fonts-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.vis-powertrust-fonts.svg)](https://www.npmjs.com/package/iobroker.vis-powertrust-fonts)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.vis-powertrust-fonts.svg)](https://www.npmjs.com/package/iobroker.vis-powertrust-fonts)
 
-[![NPM](https://nodei.co/npm/iobroker.vis-google-fonts.png?downloads=true)](https://nodei.co/npm/iobroker.vis-google-fonts/)
+[![NPM](https://nodei.co/npm/iobroker.vis-powertrust-fonts.png?downloads=true)](https://nodei.co/npm/iobroker.vis-powertrust-fonts/)
 
 Additional fonts fot ioBroker.vis
 
@@ -15,38 +15,10 @@ Install fonts and use field **CSS->font-family**.
 Fonts:
 ![Fonts](img/fonts.png)
 
-Extend iobroker.vis with google fonts: https://www.google.com/fonts 
+Fonts are not for free! You must have according license to use them.
 
-Following fonts will be included:
-
-- Alegreya - from Juan Pablo del Peral (juan@huertatipografica.com.ar)
-- Anton - from Vernon Adams (vern@newtypography.co.uk)
-- Arimo - from Apache 2.0
-- BadScript - from Cyreal (www.cyreal.org)
-- Bangers - from vernon adams (vern@newtypography.co.uk)
-- Candal - from Vernon Adams (vern@newtypography.co.uk)
-- Comfortaa - from Johan Aakerlund (aajohan@gmail.com)
-- DancingScript - from Pablo Impallari (www.impallari.com|impallari@gmail.com) and Igino Marini. (www.ikern.com|mail@iginomarini.com)
-- IndieFlower - from Kimberly Geswein (kimberlygeswein.com)
-- Jura - from Daniel Johnson (<il.basso.buffo@gmail.com>)
-- Lobster - from Pablo Impallari (www.impallari.com|impallari@gmail.com) and Alexei Vanyashin (www.cyreal.org|a@cyreal.org)
-- MarckScript - from Denis Masharov <denis.masharov@gmail.com> & Marck Fogel
-- Neucha - from  Jovanny Lemonad (http://www.jovanny.ru)
-- OpenSans-Condensed - Apache 2.0 
-- Pacifico - from  Vernon Adams (vern@newtypography.co.uk)
-- Play - from Jonas Hecksher, Playtypes, e-types AS (e-types.com)
-- PoiretOne - from Denis Masharov (denis.masharov@gmail.com)
-- PressStart2P - from Cody "CodeMan38" Boisclair (cody@zone38.net)
-- RobotoCondensed - Apache 2.0  
-- RubikMonoOne - from Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)
-- RubikOne-Regular - from  Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)
-- RuslanDisplay - from Denis Masharov <denis.masharov@gmail.com>
-- RussoOne-Regular - from  Jovanny Lemonad (jovanny.ru)
-- ShadowsIntoLight - from Kimberly Geswein (kimberlygeswein.com)
-- SigmarOne - from Vernon Adams (vern@newtypography.co.uk)
-- StalinistOne - from Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru)
-- Ubuntu - UBUNTU FONT LICENCE Version 1.0 
-
+- Berthold-AkzidenzGrotesk by vernon adams (vern@newtypography.co.uk)
+ 
 <!--
 	Placeholder for the next version (at the beginning of the line):
 	### __WORK IN PROGRESS__
