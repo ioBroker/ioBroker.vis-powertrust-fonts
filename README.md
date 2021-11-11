@@ -25,7 +25,7 @@ Fonts are not for free! You must have according license to use them.
 -->
 
 ## Changelog
-### 0.1.0 (2021-11-11)
+### 1.0.0 (2021-11-11)
 * (bluefox) initial checkin
 
 ## License

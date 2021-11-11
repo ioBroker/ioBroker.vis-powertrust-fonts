@@ -2,7 +2,7 @@
   "common": {
     "name": "vis-powertrust-fonts",
     "version": "1.0.0",
-    "title": "Nice Powertrust fonts for ioBroker.vis",
+    "title": "Powertrust application fonts for ioBroker.vis",
     "news": {
       "1.0.0": {
         "en": "Support of compact mode added",
@@ -30,16 +30,16 @@
       "zh-cn": "vis 的谷歌字体"
     },
     "desc": {
-      "en": "Nice Powertrust fonts for ioBroker.vis",
-      "de": "Schöne Powertrust fonts für ioBroker.vis",
-      "ru": "Красивые Powertrust шрифты для ioBroker.vis",
-      "pt": "Boas fontes do Powertrust para ioBroker.vis",
-      "nl": "Leuke Powertrust-lettertypen voor ioBroker.vis",
-      "fr": "Belles polices Powertrust pour ioBroker.vis",
-      "it": "Bei caratteri Powertrust per ioBroker.vis",
-      "es": "Buenas fuentes de Powertrust para ioBroker.vis",
-      "pl": "Ładne czcionki Powertrust dla ioBroker.vis",
-      "zh-cn": "ioBroker.vis 的漂亮谷歌字体"
+      "en": "Powertrust application fonts for ioBroker.vis",
+      "de": "Powertrust-Anwendungsschriftarten für ioBroker.vis",
+      "ru": "Шрифты приложения Powertrust для ioBroker.vis",
+      "pt": "Fontes de aplicativo Powertrust para ioBroker.vis",
+      "nl": "Powertrust-toepassingslettertypen voor ioBroker.vis",
+      "fr": "Polices d'application Powertrust pour ioBroker.vis",
+      "it": "Font dell'applicazione Powertrust per ioBroker.vis",
+      "es": "Fuentes de la aplicación Powertrust para ioBroker.vis",
+      "pl": "Czcionki aplikacji Powertrust dla ioBroker.vis",
+      "zh-cn": "ioBroker.vis 的 Powertrust 应用程序字体"
     },
     "platform": "Javascript/Node.js",
     "loglevel": "info",
