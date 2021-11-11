@@ -1,0 +1,77 @@
+{
+  "common": {
+    "name": "vis-powertrust-fonts",
+    "version": "1.0.0",
+    "title": "Nice Powertrust fonts for ioBroker.vis",
+    "news": {
+      "1.0.0": {
+        "en": "Support of compact mode added",
+        "de": "Unterstützung des Kompaktmodus hinzugefügt",
+        "ru": "Добавлена поддержка компактного режима",
+        "pt": "Suporte para modo compacto adicionado",
+        "nl": "Ondersteuning van compacte modus toegevoegd",
+        "fr": "Prise en charge du mode compact ajoutée",
+        "it": "Aggiunto il supporto della modalità compatta",
+        "es": "Soporte de modo compacto agregado",
+        "pl": "Dodano obsługę trybu kompaktowego",
+        "zh-cn": "添加了对紧凑模式的支持"
+      }
+    },
+    "titleLang": {
+      "en": "Powertrust fonts for vis",
+      "de": "Powertrust-Schriften für vis",
+      "ru": "Шрифты Powertrust для vis",
+      "pt": "Fontes do Powertrust para vis",
+      "nl": "Powertrust-lettertypen voor vis",
+      "fr": "Polices Powertrust pour vis",
+      "it": "Caratteri di Powertrust per vis",
+      "es": "Fuentes de Powertrust para vis",
+      "pl": "Czcionki Powertrust dla vis",
+      "zh-cn": "vis 的谷歌字体"
+    },
+    "desc": {
+      "en": "Nice Powertrust fonts for ioBroker.vis",
+      "de": "Schöne Powertrust fonts für ioBroker.vis",
+      "ru": "Красивые Powertrust шрифты для ioBroker.vis",
+      "pt": "Boas fontes do Powertrust para ioBroker.vis",
+      "nl": "Leuke Powertrust-lettertypen voor ioBroker.vis",
+      "fr": "Belles polices Powertrust pour ioBroker.vis",
+      "it": "Bei caratteri Powertrust per ioBroker.vis",
+      "es": "Buenas fuentes de Powertrust para ioBroker.vis",
+      "pl": "Ładne czcionki Powertrust dla ioBroker.vis",
+      "zh-cn": "ioBroker.vis 的漂亮谷歌字体"
+    },
+    "platform": "Javascript/Node.js",
+    "loglevel": "info",
+    "icon": "vis-powertrust-fonts.png",
+    "enabled": true,
+    "mode": "once",
+    "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.vis-powertrust-fonts/master/admin/vis-powertrust-fonts.png",
+    "keywords": [
+      "iobroker.vis",
+      "GUI",
+      "fonts",
+      "scada"
+    ],
+    "readme": "https://github.com/ioBroker/ioBroker.vis-powertrust-fonts/blob/master/README.md",
+    "authors": [
+      "bluefox <dogafox@gmail.com>"
+    ],
+    "compact": true,
+    "adminUI": {
+      "config": "none"
+    },
+    "license": "OFL-1.1",
+    "dependencies": [
+      "web"
+    ],
+    "restartAdapters": [
+      "vis"
+    ],
+    "singleton": true,
+    "type": "visualization-widgets"
+  },
+  "native": {
+    "always": true
+  }
+}
